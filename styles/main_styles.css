@@ -1,5 +1,10 @@
 body {
     background-color:azure ;
     color: blue;
-    font-style: italic;
+}
+
+footer {
+    font-size: small;
+    color:crimson;
+
 }
